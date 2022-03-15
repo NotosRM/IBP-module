@@ -1,0 +1,20 @@
+﻿formatValue.Warehouse:
+  tag_Enabled: false
+  upcheck_Enabled: false
+  Deleted: false
+  Fields:
+    ID:
+      SortOrder: 0
+      Deleted: false
+    Name:
+      SortOrder: 1
+      Deleted: false
+      Title_ru: Наименование товара
+    Count:
+      SortOrder: 2
+      Deleted: false
+      Title_ru: Количество товара
+    Cost:
+      SortOrder: 3
+      Deleted: false
+      Title_ru: Стоимость

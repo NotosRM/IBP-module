@@ -1,0 +1,9 @@
+node_modules
+api/**/.vs
+api/**/bin
+api/**/obj
+api/**/*.sln
+api/Properties
+*.user
+ui/dist/*
+

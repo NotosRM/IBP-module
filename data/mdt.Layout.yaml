@@ -1,0 +1,31 @@
+﻿- ID_Object: formatValue.Warehouse
+  Json: |-
+    {
+     "rows": [
+      {
+       "cols": [
+        {
+         "width": 6,
+         "type": "field",
+         "options": {
+          "field": "Name"
+         }
+        },
+        {
+         "width": 6,
+         "type": "field",
+         "options": {
+          "field": "Count"
+         }
+        },
+        {
+         "width": 6,
+         "type": "field",
+         "options": {
+          "field": "Cost"
+         }
+        }
+       ]
+      }
+     ]
+    }

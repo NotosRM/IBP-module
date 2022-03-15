@@ -1,0 +1,10 @@
+﻿- ID_Object: formatValue.Warehouse
+  Columns:
+    ID:
+      Position: 0
+    Name:
+      Position: 1
+    Count:
+      Position: 2
+    Cost:
+      Position: 3
